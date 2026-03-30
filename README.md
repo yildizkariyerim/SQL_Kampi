@@ -61,4 +61,4 @@ Gerçek hayatta bu tür analizler dashboard'lara ve iş kararlarına dönüşmek
 
 ---
 
-👩‍💻 Bu proje Mart SQL Başlangıç Kampı kapsamında hazırlanmıştır.
+👩‍💻 Bu proje Yıldız Kariyerim Mart SQL Başlangıç Kampı kapsamında hazırlanmıştır.
